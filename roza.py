@@ -14,7 +14,7 @@ import time
 time.clock = time.time
 
 gender = "sir"
-myname = "Shivangi"
+myname = "Shivi"
 if (myname[-1] == 'e' or myname[-1] == 'i' or myname[-1] == 'a') :
     gender= "mam"
 
